@@ -1,3 +1,7 @@
+> 📦 本 Skill 已收录进合集 **[perspective-skills](https://github.com/lululu811/perspective-skills)** —— 10 个人物视角，一行安装：`npx github:lululu811/perspective-skills --all`
+>
+> 本仓库是该 Skill 的源仓库，合集内的副本由 `scripts/sync.sh` 同步。
+
 # zettaranc-perspective
 
 Z 哥（zettaranc / 万千）思维框架与表达方式的独立 Skill 包。纯文档，不包含数据代码；需要真实行情时，通过外部 `zt` CLI 取数。
